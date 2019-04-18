@@ -26,6 +26,6 @@ Gem::Specification.new do |spec|
   ]
 
   spec.add_dependency('rubocop', '~> 0.62.0')
-  spec.add_dependency('rubocop-rspec', '~> 1.31.0')
+  spec.add_dependency('rubocop-rspec', '~> 1.32.0')
   spec.add_development_dependency('rspec', '~> 3.8')
 end
