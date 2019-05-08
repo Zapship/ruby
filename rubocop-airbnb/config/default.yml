@@ -32,7 +32,6 @@ inherit_from:
   - './rubocop-lint.yml'
   - './rubocop-metrics.yml'
   - './rubocop-naming.yml'
-  - './rubocop-performance.yml'
   - './rubocop-rails.yml'
   - './rubocop-rspec.yml'
   - './rubocop-security.yml'
